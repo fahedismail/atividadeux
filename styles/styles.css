@@ -89,7 +89,7 @@ main .secao-um h1{
     text-align: start;
     align-items: center;
     margin: 0 2rem;
-    width: 1313px;
+    max-width: 1340px;
     font-size: 41px;
     gap:1rem;
 }

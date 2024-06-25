@@ -5,7 +5,7 @@
 }
 
 *{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     width: 100%;
 }
@@ -257,6 +257,7 @@ footer{
     gap: .5rem;
     align-items: center;
     font-size: 24px;
+    margin: 0 auto;
 }
 
 footer p{
@@ -275,9 +276,11 @@ footer p{
 
 .aluno h2{
     width: 50%;
+    margin: 0;;
 }
 
 .aluno img{
     width: 50px;
     height: 50px;
+    margin: 0;
 }

@@ -26,9 +26,13 @@ body .container{
 header{
 background: var(--cor-azul-escuro);
 padding: 0.5rem 2.5rem;
-display: flex;
-justify-content: space-between;
 
+
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
 }
 
 header img:nth-child(1){
